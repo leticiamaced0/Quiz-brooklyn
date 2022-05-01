@@ -1,0 +1,25 @@
+.body{
+    background-image: url(../img/imgbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: 1902px;
+
+}
+.sec-inicial{
+height: 50vh;
+display:flex;
+justify-content:center;
+align-items: flex-end;
+align-items: center;
+}
+
+.main{
+    background-image:linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+    color: white; 
+    width: 1000px;
+    height: 400px;
+    display:inline-block;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px; 
+    text-align: center;
+}
