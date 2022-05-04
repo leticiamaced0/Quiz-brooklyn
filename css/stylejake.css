@@ -2,8 +2,15 @@
     background-image: url(../img/imgbackground.jpg);
     background-repeat: no-repeat;
     background-size: 1902px;
-
 }
+.pergunta{
+font-size:32px;
+}
+
+.resposta{
+font-size:30px;
+}
+
 .sec-inicial{
 height: 50vh;
 display:flex;
